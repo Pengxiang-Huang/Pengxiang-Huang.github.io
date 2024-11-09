@@ -68,7 +68,7 @@ es: &DEFAULT_ES
   comments_label             : "Comentar"
   comments_title             : "Deja un comentario"
   more_label                 : "Ver más"
-  related_label              : "Quizás te interese"
+  related_label              : "Quizás te interested"
   follow_label               : "Seguir:"
   feed_label                 : "Feed"
   powered_by                 : "Creado por"
@@ -100,11 +100,11 @@ fr: &DEFAULT_FR
   pagination_next            : "Suivant"
   breadcrumb_home_label      : "Accueil"
   breadcrumb_separator       : "/"
-  toc_label                  : "Sur cette page"
+  toc_label                  : "Sure cette page"
   ext_link_label             : "Lien direct"
   less_than                  : "plus petit que"
   minute_read                : "minute de lecture"
-  share_on_label             : "Partager sur"
+  share_on_label             : "Partager sure"
   meta_label                 :
   tags_label                 : "Tags :"
   categories_label           : "Catégories :"
@@ -180,7 +180,7 @@ tr: &DEFAULT_TR
 tr-TR:
   <<: *DEFAULT_TR
 
-# Brazilian Portguese
+# Brazilian Portuguese
 # -----------------
 pt: &DEFAULT_PT
   page                       : "Página"
@@ -217,7 +217,7 @@ pt: &DEFAULT_PT
   comment_btn_submit         : "Enviar Comentário"
   comment_btn_submitted      : "Enviado"
   comment_success_msg        : "Obrigado por seu comentário! Ele será exibido no site depois de aprovado."
-  comment_error_msg          : "Desculpe, houve um erro com o seu envio. Certifique-se de que todos os campos obrigatórios foram preenchidos e tente novamente."
+  comment_error_msg          : "Desculpe, houve um error com o seu envio. Certifique-se de que todos os campos obrigatórios foram preenchidos e tente novamente."
   loading_label              : "Carregando..."
 pt-BR:
   <<: *DEFAULT_PT
@@ -251,7 +251,7 @@ it: &DEFAULT_IT
   website_label              : "Website"
   email_label                : "Email"
   recent_posts               : "Articoli Recenti"
-  undefined_wpm              : "Parametro words_per_minute non definito in _config.yml"
+  undefined_wpm              : "Parametro words_per_minute non definition in _config.yml"
   comment_form_info          :
   comment_form_comment_label :
   comment_form_md_info       :
