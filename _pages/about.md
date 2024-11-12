@@ -7,6 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-Hi there!
+About 
 ======
-Pengxiang Huang
+I'm a second year master student at Northwestern University. Currently I am focusing on the optimization on quantum staging code generation. 
+
+**I'm actively looking for Ph.D opportunities in 2025 Fall**
+
+
