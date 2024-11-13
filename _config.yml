@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "About me"
+title                    : "Pengxiang's Homepage"
 title_separator          : "-"
 name                     : &name "Pengxiang Huang"
 description              : &description "personal description"
@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "profile.jpeg"
   name             : "Pengxiang Huang"
-  pronouns         : # example: "she/her"  
-  bio              : "M.S ECE student in Northwestern"
+  pronouns         : "he/him"  
+  bio              : "M.S. student @ Northwestern"
   location         : "Evanston"
   employer         : "Norhwestern University"
   uri              : # URL
