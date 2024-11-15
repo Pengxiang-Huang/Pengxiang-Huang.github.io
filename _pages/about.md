@@ -44,5 +44,5 @@ Misc
 -------
 🏀 I love sports, especially basketball, used to be a basketball player in college :) \\
 🏞️ I love hiking and other outdoor activities \\
-📖 Recent favorite book: "Thinking, Fast and Slow" 
+📖 Recent favorite book: "Thinking, Fast and Slow" by Daniel Kahneman 
 
