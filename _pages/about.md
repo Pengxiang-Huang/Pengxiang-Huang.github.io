@@ -12,7 +12,7 @@ About Me
 ======
 Hi there. I’m Pengxiang Huang, a Master’s student at Northwestern University, in Electrical and Computer Engineering department. 
 
-I am broadly interested in program analysis, and my recent research intersects with compilers, security, software engineering and programming languages. 
+I am broadly interested in program analysis, and my recent research intersects with compilers, security, software engineering, artificial intelligence and programming languages. 
 
 I’m currently working on enhancing quantum circuit simulations by leveraging lightweight staging for tensor optimization, 
 aiming to exploit the structural sparsity in quantum computations, advised by [Prof. Guannan Wei](https://continuation.passing.style/).
