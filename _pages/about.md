@@ -36,7 +36,7 @@ Education
 Work Experience
 --------
 + System Security Engineer in Tencent TEG. (May 2023 - Aug 2023)
-+ Research Intern in Alibaba DAMA Group. (Dec 2021 - May 2022)
++ Research Intern in Alibaba DAMO Group. (Dec 2021 - May 2022)
 + Software Engineer in Zhongshen Agricultural Innovation Technology Co., Ltd (May 2021 - Dec 2021)
 
 
