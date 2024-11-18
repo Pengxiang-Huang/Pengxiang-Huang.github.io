@@ -27,7 +27,7 @@ author:
   bio              : "M.S. student @ Northwestern"
   location         : "Evanston"
   employer         : "Norhwestern University"
-  uri              : # URL
+  uri              : https://pengxiang-huang.github.io/files/CV_Pengxiang_Huang.pdf 
   email            : "pengxianghuang2025@u.northwestern.edu" 
 
   # Academic websites
@@ -39,6 +39,7 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
+
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
