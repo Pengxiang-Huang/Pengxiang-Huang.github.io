@@ -14,9 +14,6 @@ Hi there. I’m Pengxiang Huang, a Master’s student at Northwestern University
 
 I am broadly interested in program analysis, and my recent research intersects with compilers, security, operating systems, software engineering, and artificial intelligence.
 
-<!-- I’m currently working on enhancing quantum circuit simulations by leveraging lightweight staging for tensor optimization,  -->
-<!-- aiming to exploit the structural sparsity in quantum computations, advised by [Prof. Guannan Wei](https://continuation.passing.style/). -->
-
 Previously, I was honored to collaborated with [Prof. Simone Campanoni](https://users.cs.northwestern.edu/~simonec/#gsc.tab=0) in Northwestern 
 on building and improving program analysis infrastructure [NOELLE](https://github.com/arcana-lab/noelle?tab=readme-ov-file) upon LLVM. 
 I also worked with [Prof. Kangjie Lu](https://www-users.cse.umn.edu/~kjlu/) in University of Minnesota on developing [APILOT](https://arxiv.org/abs/2409.16526) to secure the code generation
@@ -26,7 +23,7 @@ please get in touch if you are intertested!
 
 Education 
 --------
-+ Masters of Science, Electrical and Computer Engineering, Northwestern University (2023-2025)
++ Masters of Engineering, Electrical and Computer Engineering, Northwestern University (2023-2025)
 + Exchange student, Computer Science, University of Minnesota, Twin Cities (2022-2023)
 + Bachelor of Science, Computer Science, The Chinese University of Hong Kong, Shenzhen (2019-2023)
 
