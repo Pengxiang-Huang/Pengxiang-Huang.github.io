@@ -10,7 +10,9 @@ redirect_from:
 
 About Me
 ======
-Hi there. I’m Pengxiang Huang, a Master’s student at Northwestern University, in Electrical and Computer Engineering department. 
+Hi there. I’m Pengxiang Huang, currently a Master’s student at Northwestern University, in Electrical and Computer Engineering department. 
+
+**I am an incoming Computer Science Ph.D. student at University of Rochester.**
 
 I am broadly interested in program analysis, and my recent research intersects with compilers, security, operating systems, software engineering, and artificial intelligence.
 
@@ -23,7 +25,7 @@ please get in touch if you are intertested!
 
 Education 
 --------
-+ Masters of Engineering, Electrical and Computer Engineering, Northwestern University (2023-2025)
++ Masters of Science, Electrical and Computer Engineering, Northwestern University (2023-2025)
 + Exchange student, Computer Science, University of Minnesota, Twin Cities (2022-2023)
 + Bachelor of Science, Computer Science, The Chinese University of Hong Kong, Shenzhen (2019-2023)
 
