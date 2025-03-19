@@ -12,7 +12,7 @@ About Me
 ======
 Hi there. I’m Pengxiang Huang, currently a Master’s student at Northwestern University, in Electrical and Computer Engineering department. 
 
-**I am an incoming Computer Science Ph.D. student at University of Rochester.**
+<!-- **I am an incoming Computer Science Ph.D. student at University of Rochester.** -->
 
 I am broadly interested in program analysis, and my recent research intersects with compilers, security, operating systems, software engineering, and artificial intelligence.
 
