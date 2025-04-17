@@ -12,7 +12,7 @@ About Me
 ======
 Hi there. I’m Pengxiang Huang, currently a Master’s student at Northwestern University, in Electrical and Computer Engineering department. 
 
-<!-- **I am an incoming Computer Science Ph.D. student at University of Rochester.** -->
+**I am an incoming Computer Science Ph.D. student at University of Rochester, advised by [Prof. John Criswell](https://www.cs.rochester.edu/u/criswell/index.html)**
 
 I am broadly interested in program analysis, and my recent research intersects with compilers, security, operating systems, software engineering, and artificial intelligence.
 
@@ -21,7 +21,7 @@ on building and improving program analysis infrastructure [NOELLE](https://githu
 I also worked with [Prof. Kangjie Lu](https://www-users.cse.umn.edu/~kjlu/) in University of Minnesota on developing [APILOT](https://arxiv.org/abs/2409.16526) to secure the code generation
 by language models. 
 
-please get in touch if you are intertested!
+please connect if you are intertested!
 
 Education 
 --------
@@ -32,8 +32,8 @@ Education
 Work Experience
 --------
 + System Security Engineer in Tencent TEG. (May 2023 - Aug 2023)
-+ Research Intern in Alibaba DAMO Group. (Dec 2021 - May 2022)
-+ Software Engineer in Zhongshen Agricultural Innovation Technology Co., Ltd (May 2021 - Dec 2021)
++ Part-time Research Intern in Alibaba DAMO Group. (Dec 2021 - May 2022)
++ Software Engineer in Zhongshen Agricultural Innovation Technology Co., Ltd (May 2021 - Aug 2021)
 
 
 Misc
