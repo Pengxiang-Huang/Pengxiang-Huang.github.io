@@ -10,9 +10,7 @@ redirect_from:
 
 About Me
 ======
-Hi there. I’m Pengxiang Huang, currently a Master’s student at Northwestern University, in Electrical and Computer Engineering department. 
-
-**I am an incoming Computer Science Ph.D. student at University of Rochester, advised by [Prof. John Criswell](https://www.cs.rochester.edu/u/criswell/index.html)**
+Hi there. I’m Pengxiang Huang, I am a Ph.D. student at University of Rochester in the department of Computer Science, advised by [Prof. John Criswell](https://www.cs.rochester.edu/u/criswell/index.html)
 
 I am broadly interested in program analysis, and my recent research intersects with compilers, security, operating systems, software engineering, and artificial intelligence.
 
